@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Woro</h1>
-<h3 align="center">Lua game developer</h3>
+<h3 align="center">Fivem lua developer / Backend developer</h3>
 
 - 🔭 I’m currently working on [FiveM: Waves RolePlay](https://discord.gg/wavesroleplay)
 
