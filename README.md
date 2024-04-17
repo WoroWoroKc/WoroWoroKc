@@ -5,5 +5,5 @@ Projects:
 - ~~NNHouse~~
 - ~~GelatoRP~~
 - ~~AkiraRP~~
-- ~~WavesRP~~~
+- ~~WavesRP~~
 - [EpicEye](https://discord.gg/wavesroleplay)
