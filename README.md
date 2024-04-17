@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Woro</h1>
 <h3 align="center">Fivem lua developer / Backend developer</h3>
 
-- 🔭 I’m currently working on [FiveM: Waves RolePlay](https://discord.gg/wavesroleplay)
+- ~~NNHouse~~
+- ~~GelatoRP~~
+- ~~AkiraRP~~
+- ~~WavesRP~~~
+- [EpicEye](https://discord.gg/wavesroleplay)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
