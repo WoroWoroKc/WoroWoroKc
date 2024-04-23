@@ -6,4 +6,4 @@ Projects:
 - ~~GelatoRP~~
 - ~~AkiraRP~~
 - ~~WavesRP~~
-- [EpicEye](https://discord.gg/wavesroleplay)
+- [EpicEye](https://epiceye.me/)
