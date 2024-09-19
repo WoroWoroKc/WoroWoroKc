@@ -7,3 +7,5 @@ Projects:
 - ~~AkiraRP~~
 - ~~WavesRP~~
 - [EpicEye](https://epiceye.me/)
+- [Z-Scripts](https://z-scripts.tebex.io/)
+- [HazeRP](https://hazerp.pl/)
