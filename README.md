@@ -1,4 +1,4 @@
-# Woro
+# 🙉 Woro
 
 **`(Lua Developer / Full-Stack Developer)`**
 
@@ -43,7 +43,7 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
 
 ### 🛠️ I was working on 
 
-- [77RolePlay](https://discord.gg/77roleplay)
+- [77 RolePlay](https://discord.gg/77roleplay)
 - [Waves RolePlay](https://discord.com/invite/wavesroleplay)
 - [Hype RolePlay](https://hyperp.pl/)
 - [Wait RolePlay](https://discord.com/invite/waitrp)
