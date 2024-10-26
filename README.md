@@ -35,7 +35,7 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
 - ~~NNHouse~~ (2019 - 2021)
 - ~~GelatoRP~~ (2021 - 2022)
 - ~~AkiraRP~~ (2022 - 2022)
-- ~~WavesRP~~ (2023 - 2024)
+- [~~WavesRP~~](https://discord.com/invite/wavesroleplay) (2023 - 2024)
 - [EpicEye](https://epiceye.me/) (2023 - Now)
 - [Z-Scripts](https://z-scripts.tebex.io/) (2024 - Now)
 
@@ -44,6 +44,7 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
 ### 🛠️ I was working on 
 
 - [77RolePlay](https://discord.gg/77roleplay)
+- [Waves RolePlay](https://discord.com/invite/wavesroleplay)
 - [Hype RolePlay](https://hyperp.pl/)
 - [Wait RolePlay](https://discord.com/invite/waitrp)
 - [Haze RolePlay](https://hazerp.pl/)
