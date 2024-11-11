@@ -48,3 +48,4 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
 - [Hype RolePlay](https://hyperp.pl/)
 - [Wait RolePlay](https://discord.com/invite/waitrp)
 - [Haze RolePlay](https://hazerp.pl/)
+- [FiveCity](https://discord.gg/5city)
