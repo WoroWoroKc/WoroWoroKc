@@ -58,20 +58,6 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
     style="padding-right: 10px; width: 30px; height: 30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 /></a>
-<img
-    align="left"
-    alt="HTML"
-    width="30px"
-    style="padding-right: 10px; width: 30px; height: 30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-/>
-<img
-    align="left"
-    alt="CSS"
-    width="30px"
-    style="padding-right: 10px; width: 30px; height: 30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-/>
 <a href="https://nodejs.org"><img
     align="left"
     alt="NodeJS"
