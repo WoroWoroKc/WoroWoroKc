@@ -142,6 +142,7 @@ I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the
 - [~~WavesRP~~](https://discord.com/invite/wavesroleplay) (2023 - 2024)
 - [EpicEye](https://epiceye.me/) (2023 - Now)
 - [Z-Scripts](https://z-scripts.tebex.io/) (2024 - Now)
+- [BeLaunch](https://belaunch.net/) (2024 - Now)
 
 #
 
