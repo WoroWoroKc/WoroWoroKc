@@ -4,7 +4,7 @@
 
 Hey there!
 
-I am a Lua developer with over 4 years of experience, primarily focused on developing game servers on the FiveM platform. For the past 2 years, I’ve been working as a Full-Stack Developer; prior to that, my expertise centered on UI design without backend integration.
+I am a Lua developer with over 5 years of experience, primarily focused on developing game servers on the FiveM platform. For the past 3 years, I’ve been working as a Full-Stack Developer; prior to that, my expertise centered on UI design without backend integration.
 
 I'm passionate about Unix-like systems such as Linux (yes, “I use Arch, by the way” 😉). Currently, I’m actively working on personal projects, listed below, and I continue to engage with the FiveM community as a freelance developer.
 
